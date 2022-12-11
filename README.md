@@ -1,2 +1,2 @@
 # ChatApp
-https://jain-01-chatapp.herokuapp.com/
+https://chat-app-z2d0.onrender.com
